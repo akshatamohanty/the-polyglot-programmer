@@ -50,6 +50,8 @@ Programming languages have varying amounts of support for memory management and 
 
 Working with files, databases, networking, IDEs, pdb debuggers, versioning.
 
+## Common Frameworks
+
 ## Tools and Debuggers
 
 ## Case Studies in Production
