@@ -1,15 +1,36 @@
-The official Rust book. Practise with rustlings.
+# Rust
 
-Programming Rust by Jim Blandy et al.
+|               |     |
+| ------------- | --- |
+| First release |     |
+| Designed by   |     |
+| Paradigm      |     |
+| Typing        |     |
+| Converted by  |     |
+| Converts to   |     |
+| Quirky fact   |     |
+| Focus areas   |     |
+| Inspired by   |     |
 
-Small hobby projects.
+## Compiling Rust
 
-Rust for Rustaceans by Gjengset.
+```
+rustc 00-hello-world.rs
+```
 
-Bigger, more complex projects. Experiment with common crates - tokio, serde, sqlx, thiserror, anyhow, axum etc.
+To debug,
 
-Common Rust lifetime misconceptions (Google ithttps://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md).
+```
+rustc --explain [error_code]
+```
 
-Implementing too many lists in Rust (Google ithttps://rust-unofficial.github.io/too-many-lists/).
+## References
 
-Full-fledged projects, open source contributions etc.
+- The official Rust book. Practise with rustlings.
+- Programming Rust by Jim Blandy et al.
+- Small hobby projects.
+- Rust for Rustaceans by Gjengset.
+- Bigger, more complex projects. Experiment with common crates - tokio, serde, sqlx, thiserror, anyhow, axum etc.
+- Common Rust lifetime misconceptions (Google ithttps://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md).
+- Implementing too many lists in Rust (Google ithttps://rust-unofficial.github.io/too-many-lists/).
+- Full-fledged projects, open source contributions etc.
