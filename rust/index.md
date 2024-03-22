@@ -2,8 +2,8 @@
 
 |               |     |
 | ------------- | --- |
-| First release |     |
-| Designed by   |     |
+| First release | 2015    |
+| Designed by   | Rust Foundation |
 | Paradigm      |     |
 | Typing        |     |
 | Converted by  |     |
